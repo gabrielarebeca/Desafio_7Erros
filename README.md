@@ -19,3 +19,7 @@ O projeto consiste em um **jogo de 7 erros** onde o jogador precisa encontrar as
 - **HTML5**
 - **CSS3** (para o design das páginas e imagens)
 - **JavaScript** (para a lógica do jogo e interação)
+
+## 🖼️ Visualize no Navegador
+
+https://gabrielarebeca.github.io/Desafio_7Erros/
